@@ -1,16 +1,14 @@
-### Hi there 👋
+# Cauã Matheus
 
-<!--
-**CauaMatheus/CauaMatheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá pessoal 👋
+Sou apaixonado por resolver problemas utilizando a programação.
+Sou um Estudante de NodeJS :computer:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ :rocket:  &nbsp; Estou estudando na **Rocketseat**
+ <br/> :purple_heart: &nbsp; Busco colaborar com projetos em Back-end usando Node
+ <br/> :blush: &nbsp; Posso te ajudar com Node, Typescript, SQLite, Postgress, TypeORM, Knexjs, discord.js & ESLint
+ <br/> :computer: &nbsp; Minha stack: Node.js, Typescript & Discord.js
+ <br/> 💬  &nbsp; Sobre mim: Cara, eu gosto bastante de programar, mas também de jogos como Valorant, Overwatch, LoL e outros
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-CauãMatheus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cauã-matheus-alves-corrêa-28a9621a5/)](https://www.linkedin.com/in/tgmarinho/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-caua10000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](caua10000@gmail.com)
