@@ -11,4 +11,4 @@ Sou um Estudante de NodeJS :computer:
  <br/> 💬  &nbsp; Sobre mim: Cara, eu gosto bastante de programar, mas também de jogos como Valorant, Overwatch, LoL e outros
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-CauãMatheus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cauã-matheus-alves-corrêa-28a9621a5/)](https://www.linkedin.com/in/cauã-matheus-alves-corrêa-28a9621a5/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-caua10000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfrslZsxlnNXDwGmgrVRnQxLPJlSwLRcWCgdHSQhfVqvpDlVJLHrmZSGvLgPXQlPdzmfLV)
+[![Gmail Badge](https://img.shields.io/badge/-caua10000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:caua10000@gmail.com)
