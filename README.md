@@ -7,7 +7,7 @@ Sou apaixonado por resolver problemas utilizando a programação.
 
  :rocket:  &nbsp; Atualmente estou estudando na **Rocketseat** cursando a trilha NodeJs do Ignite
  <br/> :purple_heart: &nbsp; Busco colaborar com projetos em Back-end usando Node
- <br/> :blush: &nbsp; Posso te ajudar com Node, Typescript, ESLint, TypeORM, Knexjs & discord.js 
+ <br/> :blush: &nbsp; Posso te ajudar com Node, Typescript, ESLint, TypeORM, Knexjs & Discord.js 
  <br/> :computer: &nbsp; Minha stack: Node.js, Typescript & Discord.js
  <br/> 💬  &nbsp; Sobre mim: Cara, eu gosto bastante de programar, mas também de jogos como Valorant, Overwatch, LoL e outros
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-CauãMatheus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cauã-matheus-alves-corrêa-28a9621a5/)](https://www.linkedin.com/in/cauã-matheus-alves-corrêa-28a9621a5/) 
