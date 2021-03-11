@@ -3,7 +3,7 @@
 ## Bem-vindo ao meu perfil 👋
 Sou apaixonado por resolver problemas utilizando a programação.
 <br/> Estudo programação desde 2019, porém nunca tive coragem de postar meus códigos aqui. Graças a Rocketseat, estou tentando perder esse medo.
-<br/> Para ver meu progresso vá até o repositório [Desafios-Ignite](https://github.com/CauaMatheus/Desafios-NodeJs)
+<br/> Para ver meu progresso vá até o repositório [Desafios-NodeJs](https://github.com/CauaMatheus/Desafios-NodeJs)
 <br/> Foco meus estudos principalmente em NodeJS :computer:
 
  :rocket:  &nbsp; Atualmente estou estudando na **Rocketseat** cursando a trilha NodeJs do Ignite
