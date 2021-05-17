@@ -12,4 +12,4 @@ Sou apaixonado por resolver problemas utilizando a programação.
  <br/> :computer: &nbsp; Tecnologias: NodeJS, Docker & Docker-Compose.
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&)](https://www.linkedin.com/in/cauã-matheus-alves-corrêa-28a9621a5/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:cauamatheusdev@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:caua10000@gmail.com)
