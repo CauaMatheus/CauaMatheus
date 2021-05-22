@@ -3,7 +3,7 @@
 ## Bem-vindo ao meu perfil 👋
 Sou apaixonado por resolver problemas utilizando a programação.
 <br/> 🤓 Estudo desenvolvimento web desde 2019, e me sinto mais confortável com desenvolvimento back-end, apesar de conhecer frameworks front-end como React e NextJS.
-<br/> 🌟 Para ver meu progresso com a mão na massa, vá até o repositório [Desafios-NodeJs](https://github.com/CauaMatheus/Desafios-NodeJs), ou de uma checada nos meus repositórios fixados.
+<br/> 🌟 Para ver meu progresso com a mão na massa, dê uma checada nos meus repositórios fixados ou vá até o repositório [Desafios-NodeJs](https://github.com/CauaMatheus/Desafios-NodeJs).
 <br/> 🏹 Foco meus estudos principalmente em NodeJS :computer:
 
  :rocket:  &nbsp; Atualmente estou estudando na **Rocketseat** cursando a trilha NodeJS do Ignite
