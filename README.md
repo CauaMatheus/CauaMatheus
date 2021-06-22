@@ -2,7 +2,7 @@
 
 ## Bem-vindo ao meu perfil 👋
 Sou apaixonado por resolver problemas utilizando a programação.
-<br/> 🤓 Estudo desenvolvimento web desde 2019, e me sinto mais confortável com desenvolvimento back-end, apesar de conhecer frameworks front-end como React e NextJS.
+<br/> 🤓 Estudo desenvolvimento web desde 2019, e me sinto mais confortável com desenvolvimento back-end, apesar de conhecer bibliotecas e frameworks front-end como React e NextJS.
 <br/> 🏹 Foco meus estudos principalmente em NodeJS :computer:
 
  :rocket:  &nbsp; Atualmente estou trabalhando na **EWZ-Capital** como desenvolvedor back-end.
